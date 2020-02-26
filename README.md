@@ -1,8 +1,7 @@
-# hypotension_gliome
-__This is the code repository of a medical thesis:__  
-  
-Intraoperative hypotension as a risk factor of ischemic lesions on early postoperative MRI: evidence from a retrospective series of 90 patients with glioma surgical resection
+# Intraoperative hypotension as a risk factor of ischemic lesions on early postoperative MRI: evidence from a retrospective series of 90 patients with glioma surgical resection
 
+This is the code repository of the medical thesis of Thaïs Walter-Perdriel
+  
 __Introduction__  
   
 Brain and other nervous system tumours are amongst the five leading causes of death by cancer for people under 40 years old in the United States in 2016(1). With an incidence of 11 new cases per year and per 100 000 inhabitants, glioma tumours have the highest brain tumour incidence(2) with a five year specific mortality rate ranging from 18% to 85%  depending on the grade of the tumour (3).  
